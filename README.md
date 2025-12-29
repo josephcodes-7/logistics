@@ -1,2 +1,2 @@
 # logistics
-Logistics platform(transport management system, warehouse management platform 
+Logistics platform(transport management system, warehouse management platform)
